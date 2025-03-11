@@ -27,7 +27,8 @@
  # Public repositories are accessible to anyone, fostering open collaboration and visibility disadvantage Security risk: Sensitive information or code should be avoided. , while private repositories restrict access to specific individuals or teams, offering enhanced security and control, particularly for sensitive projects disadvantage Limited collaboration: Can hinder open-source-style development. 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-#  steps are as follows:Enter one of the following commands, depending on what you want to do: Stage all files: git add . Stage a file: git Check the status again by entering the following command: git status.You should see there are changes ready to be committed.
+#  steps are as follows:Enter one of the following commands, depending on what you want to do: Stage all files: git add . Stage a file: git Check the status again by entering the
+following command: git status.You should see there are changes ready to be committed.
 # Commits ensure that all changes are gathered in a central repository, keeping the entire team informed about the changes. Version Control: Commits are used to manage different versions of the software. This is especially important in large projects where tracking different versions and updates is done through commits.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
