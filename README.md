@@ -10,7 +10,7 @@
    # Enter the name of the GitHub repository.
    # Include a description which is optional
    # Choose to make this a public or private GitHub repository.
-  # During this process, crucial decisions involve identifying the need for a decision, defining the problem, establishing criteria, gathering relevant information, considering alternatives, weighing the evidence, choosing the best alternative, and taking action. 
+  # During this process, crucial decisions involve identifying the need for a decision, defining the problem, establishing criteria, gathering relevant information, considering,alternatives weighing the evidence, choosing the best alternative, and taking action. 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 # it is important in a GitHub repository because it provides a clear introduction to a project, which helps users and developers understand how to use and contribute to it.    should include the following.
